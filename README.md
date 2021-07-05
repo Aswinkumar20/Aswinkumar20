@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aswinkumar
+- 👋 Hello, I’m Aswinkumar
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Django,Javascript
 - 💞️ I’m looking to collaborate in well good team to develop my knowledge
