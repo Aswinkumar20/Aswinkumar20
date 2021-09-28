@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Aswinkumar
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Django,Javascript
+- 👀 I’m Coding Enthusiast
+- 🌱 I’m currently learning Django,React,RDBMS
 - 💞️ I’m looking to collaborate in well good team to develop my knowledge
 - 📫 How to reach me aswinkumar2021@gmail.com
 
