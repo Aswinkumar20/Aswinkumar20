@@ -25,12 +25,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinkumar20" alt="aswinkumar20" /></a> </p>
 
 <h2 align="left">📈 Stats:</h2>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aswinkumar20&show_icons=true&locale=en&theme=algolia" alt="aswinkumar20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar20&theme=algolia" alt="aswinkumar20" /></p>
-
 <p>
-<img width="100%" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinkumar20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aswinkumar20" />
+<img  height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinkumar20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aswinkumar20" />
 </p>
+
+<p><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=aswinkumar20&show_icons=true&locale=en&theme=algolia" alt="aswinkumar20" /></p>
+
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar20&theme=algolia" alt="aswinkumar20" /></p>
+
+
