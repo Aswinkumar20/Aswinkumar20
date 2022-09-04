@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"> I'm Aswinkumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<a href="https://www.linkedin.com/in/aswin-kumar-b75907212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aswin-kumar-b75907212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:aswinkumar2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aswinkumar20&label=Profile%20views&color=0e75b6&style=flat" alt="aswinkumar20" /> </p>
